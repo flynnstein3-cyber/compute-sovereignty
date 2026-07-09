@@ -1,16 +1,16 @@
-# Sovereign Compute Index Metrics
+# Compute Sovereignty
 
 ## Primer
-[Content]
+Link to [Research Report](RESEARCH_REPORT.md)
 
-## Diagnostic Layer
-[Metrics]
+## Research
+[GLH Stack v1.0 Report](RESEARCH_REPORT.md)
 
-## Sovereign Compute Index
-GPU supply, policy, infrastructure scores.
+## Roadmap
+- v1.1: Enhanced metrics
+- v2.0: Full lattice implementation
+- v3.0: Sovereign deployment
 
-## GPU Dashboard
-Live tracking.
+## GLH Stack Specification
+See [SPEC.md](SPEC.md)
 
-## Hidden World Map
-Geopolitical compute layers.
